@@ -47,6 +47,18 @@ function checkWin(){
         }
         
     }
+    else{
+        let draw = true; //setting the draw to true
+        for(let i = 0; i < 9; i++){
+            if(board[i].style.backgroundImage === ""){ //checking if the cell is empty
+                draw = false; //setting the draw to false
+            }
+        }
+        if(draw){
+            document.querySelector('#status').innerHTML = "It's a draw!"; //setting the status to draw
+            gameOver = true; //setting the game over to true
+        }
+    }
     
 }
 function resetGame() {
