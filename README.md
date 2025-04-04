@@ -1,6 +1,6 @@
 # Tic Tac Toe Game 🕹️
-Live Demo: https://skvortsova-tic-tac-toe.netlify.app/
-A fun and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play as **Player X** (❌) or **Player O** (⭕) and try to win by aligning three of your symbols horizontally, vertically, or diagonally. The game automatically detects when a player wins and displays the winner message. Restart the game with a click of a button. 🔄
+- Live Demo: https://skvortsova-tic-tac-toe.netlify.app/
+- A fun and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play as **Player X** (❌) or **Player O** (⭕) and try to win by aligning three of your symbols horizontally, vertically, or diagonally. The game automatically detects when a player wins and displays the winner message. Restart the game with a click of a button. 🔄
 
 ## Features ✨
 
